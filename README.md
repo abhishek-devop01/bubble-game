@@ -1,2 +1,2 @@
 # bubble-game
-tech stack: html, css and js
+tech stack: html, css and js (DOM)
